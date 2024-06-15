@@ -17,12 +17,10 @@ Net4Surge is a business listing project developed during my summer internship. T
   - [Week 2](#week-2)
   - [Week 3](#week-3)
   - [Week 4](#week-4)
-  - [Week 5](#week-5)
-  - [Week 6](#week-6)
 
 ## Project Overview
 
-Net4Surge is designed to help businesses list their services, enabling users to search for and connect with businesses that meet their needs. The project was developed over a six-week summer internship, with significant progress made each week.
+Net4Surge is designed to help businesses list their services, enabling users to search for and connect with businesses that meet their needs. The project was developed over a four-week summer internship, with significant progress made each week.
 
 ## Features
 
@@ -41,10 +39,15 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 **Day 1: 18th May 2024**
 - Introduction to the project and setup of development environment.
 - I was introduced the project and the requirements of the client for this project.
-- I started developing a login/signup form using antd for the starting of project.
+- For the first day I was given the task to learn basics of antd and react row col component.
 
 **Day 2: 19th May 2024**
-- On day-2 I made the login/signup form responsive for all the mobile screens.
-- Then I was given the task to make a change password form for the profile section.
-- I made change passsword form using antd where in the validation was applied which checked that both the passwords(i.e. neew password and confirmed password) which was entered should be same.
-- I also made this form responsive based on requirements for all mobile screens. 
+-On day-02 I continued learning the basics of antd and then was given the task for creating login/signup  form the project.
+- So I started developing a login/signup form using antd for the starting of project
+- Further I made the login/signup form responsive for all the mobile screens for ending the day-2.
+
+**Day 3: 20th May 2024**
+- On day-03 I was given the task to make a change password form for the profile section.
+- I made change passsword form using antd where in the validation was applied which checked that both the passwords(i.e. neew password and confirmed password) which were entered should be same.
+- I further made this form responsive based on requirements for all mobile screens.
+
