@@ -42,7 +42,7 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 - For the first day I was given the task to learn basics of antd and react row col component.
 
 **Day 2: 19th May 2024**
--On day-02 I continued learning the basics of antd and then was given the task for creating login/signup  form the project.
+- On day-02 I continued learning the basics of antd and then was given the task for creating login/signup  form the project.
 - So I started developing a login/signup form using antd for the starting of project
 - Further I made the login/signup form responsive for all the mobile screens for ending the day-2.
 
