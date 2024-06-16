@@ -8,7 +8,7 @@ Welcome to my GitHub repository for the React Summer Internship 2024! This proje
 
 Net4Surge is a business listing project developed during my summer internship. This project aims to provide a comprehensive platform for businesses to list their services and reach a wider audience. This README file documents the tasks accomplished and the progress made on a day-by-day and week-by-week basis.
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -18,11 +18,11 @@ Net4Surge is a business listing project developed during my summer internship. T
   - [Week 3](#week-3)
   - [Week 4](#week-4)
 
-## Project Overview
+## 📖 Project Overview
 
 Net4Surge is designed to help businesses list their services, enabling users to search for and connect with businesses that meet their needs. The project was developed over a four-week summer internship, with significant progress made each week.
 
-## Features
+## ✨ Features
 
 - Business registration and listing
 - User authentication and profile management
@@ -34,7 +34,7 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 
 ## 📝 Day-by-Day Progress
 
-### Week 1
+### 📅 Week 1
 
 **Day 1: 18th May 2024**
 - Introduction to the project and setup of development environment.
@@ -51,3 +51,7 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 - I made change passsword form using antd where in the validation was applied which checked that both the passwords(i.e. neew password and confirmed password) which were entered should be same.
 - I further made this form responsive based on requirements for all mobile screens.
 
+**Day 4: 21st May 2024**
+- On day-04 I was asked to make an Edit profile page where the user can change the details of his profile.
+- It further had an upload avatar feature where the user can change and upload his profile picture.
+- I used Antd and dragger to accompolish this task of making an edit profile page and further made it responsive as well.
