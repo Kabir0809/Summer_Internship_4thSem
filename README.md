@@ -55,3 +55,9 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 - On day-04 I was asked to make an Edit profile page where the user can change the details of his profile.
 - It further had an upload avatar feature where the user can change and upload his profile picture.
 - I used Antd and dragger to accompolish this task of making an edit profile page and further made it responsive as well.
+
+**Day 4: 21st May 2024**
+- On day-05 further I was given the task to make a Contact Us form.
+- In that i was asked to make a form where there were the details of the company in one section and the text fields for the queries in other section.
+- Further I made this form completely responsive and the library which i used to accomplish this task was AntD.
+
