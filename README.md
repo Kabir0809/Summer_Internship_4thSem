@@ -36,27 +36,27 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 
 ### 📅 Week 1
 
-**Day 1: 18th May 2024**
+**Day 1: 13th May 2024**
 - Introduction to the project and setup of development environment.
 - I was introduced the project and the requirements of the client for this project.
 - For the first day I was given the task to learn basics of antd and react row col component.
 
-**Day 2: 19th May 2024**
+**Day 2: 14th May 2024**
 - On day-02 I continued learning the basics of antd and then was given the task for creating login/signup  form the project.
 - So I started developing a login/signup form using antd for the starting of project
 - Further I made the login/signup form responsive for all the mobile screens for ending the day-2.
 
-**Day 3: 20th May 2024**
+**Day 3: 15th May 2024**
 - On day-03 I was given the task to make a change password form for the profile section.
 - I made change passsword form using antd where in the validation was applied which checked that both the passwords(i.e. neew password and confirmed password) which were entered should be same.
 - I further made this form responsive based on requirements for all mobile screens.
 
-**Day 4: 21st May 2024**
+**Day 4: 16th May 2024**
 - On day-04 I was asked to make an Edit profile page where the user can change the details of his profile.
 - It further had an upload avatar feature where the user can change and upload his profile picture.
 - I used Antd and dragger to accompolish this task of making an edit profile page and further made it responsive as well.
 
-**Day 5: 21st May 2024**
+**Day 5: 17th May 2024**
 
 ***Contact Us Form Task***
 - On the fifth day of my project, I was assigned the task of creating a Contact Us form. This form was divided into two sections:
@@ -64,7 +64,16 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 - Query Section: This section included text fields where users could input their queries.
 - To ensure the form was fully responsive, I utilized Ant Design (AntD) for the UI components. This approach allowed the form to maintain its usability and aesthetics across different screen sizes and devices
 
+### 📅 Week 2
 
+**Day 1: 20th May 2024**
+- Today I was introduced with the plan for making the AboutUs Page in the Website.
+- So I started building the basic structure of the page.
+- Further it consisted of an Image Caraousel so I started making and designing the Image Slider/Caraousel.
 
+**Day 2: 21st May 2024**
+- On day-02 I finished the Image Slider with its full functionality.
+- Then I continued working on the basic structure of About Us Page.
+- Moreover I integrated the Image Slider Component made on previous day into the AboutUs Page.
 
 
