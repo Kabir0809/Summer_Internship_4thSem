@@ -76,4 +76,14 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 - Then I continued working on the basic structure of About Us Page.
 - Moreover I integrated the Image Slider Component made on previous day into the AboutUs Page.
 
+**Day 3: 22nd May 2024**
+- Continued working on About Us Page.
+- Started developing a User Feedback slider to integrate into the About Us page.
+- I used Caraousel to make the slider and used JSON for the data of feedbacks.
+- Further made the Slider responsive using useEffect and functions with the help of screenwidth.
+
+**Day 4: 23rd May 2024**
+- Started the day by integrating the Client Feedback component into the About Us page.
+- Integrated all the required components into the main About Us page.
+- Further made the whole page responsive for all the screen sizes.
 
