@@ -85,5 +85,11 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 **Day 4: 23rd May 2024**
 - Started the day by integrating the Client Feedback component into the About Us page.
 - Integrated all the required components into the main About Us page.
-- Further made the whole page responsive for all the screen sizes. 
+- Further made the whole page responsive for all the screen sizes.
+
+**Day 5: 24th May 2024**
+- Started the day by making an logo slider component for the About Us page.
+- Integrated in the About us page.
+- Then made the background image header component for the start of About Us page and integrated it into the final page.
+- With this I completed the About Us page as per the client's requirement
 
