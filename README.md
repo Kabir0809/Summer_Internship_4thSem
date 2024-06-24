@@ -93,3 +93,7 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 - Then made the background image header component for the start of About Us page and integrated it into the final page.
 - With this I completed the About Us page as per the client's requirement
 
+
+### 📅 Week 3
+
+**Day 1: 27th May 2024**
