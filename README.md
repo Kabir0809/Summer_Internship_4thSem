@@ -17,7 +17,9 @@ Net4Surge is a business listing project developed during my summer internship. T
   - [Week 2](#week-2)
   - [Week 3](#week-3)
   - [Week 4](#week-4)
-
+  - [Week 5](#week-3)
+  - [Week 6](#week-4)
+    
 ## 📖 Project Overview
 
 Net4Surge is designed to help businesses list their services, enabling users to search for and connect with businesses that meet their needs. The project was developed over a four-week summer internship, with significant progress made each week.
@@ -97,3 +99,78 @@ Net4Surge is designed to help businesses list their services, enabling users to 
 ### 📅 Week 3
 
 **Day 1: 27th May 2024**
+- Started completing Contact Us Page.
+- Integrated several Reusable Banner components into Contact Us Page.
+
+**Day 2: 28th May 2024**
+- Finished Working on Contact Us page.
+- Integrated it into the project.
+- Started working on components for HomePage.
+
+**Day 3: 29th May 2024**
+- Continued working on Homepage
+
+**Day 4: 30th May 2024**
+- Completed the Homepage components.
+- Integrated all the components into the homepage and completed it.
+
+**Day 5: 31st May 2024**
+- Made some changes into the HomePage including changing the background and the icons as asked by client.
+- Integrated Responsiveness into the Homepage.
+
+### 📅 Week 4
+
+**Day 1: 3rd June 2024**
+- Made some necessary changes into Edit Profile page.
+- Integrated it into the website.
+
+**Day 2: 4th June 2024**
+- Made some changes into Change password form.
+- Integrated the change password form into the project.
+
+**Day 3: 5th June 2024**
+- Started learning Tailwind CSS
+
+**Day 4: 6th June 2024**
+- Replaced CSS of all the files using Tailwind CSS.
+
+**Day 5: 7th June 2024**
+- Replaced CSS of all the files using Tailwind CSS.
+
+### 📅 Week 5
+
+**Day 1: 17th June 2024**
+- Started working on Pricing plan page.
+- Designed the page according to the reference given.
+- Made the Pricing Page responsive for all screen sizes.
+
+**Day 2: 18th June 2024**
+- Made some necessary changes as asked by client.
+- Started Developing Business Listing Page.
+- Made the changes in already made Business Listing Page as i was asked.
+
+**Day 3: 19th June 2024**
+- Made Manage Contacts Table for the Backend.
+
+**Day 4: 20th June 2024**
+- Started learning step-wise form in React.js
+
+### 📅 Week 6
+
+**Day 1: 24th June 2024**
+- Made a Basic step-wise form for learning.
+- Learnt about json file and mapping it into the website.
+
+**Day 2: 25th June 2024**
+- Starting making step-wise Add-Listing form for client with the help of employee.
+
+**Day 3: 26th June 2024**
+- Completed step-wise form.
+- Made some changes in the form and icons as I was asked.
+
+**Day 4: 27th June 2024**
+- Started developing Success page to be shown after completion of Add-Listing form.
+- Completed the Success Page and integrated it into website.
+
+**Day 5: 28th June 2024**
+  - Conclusion and completion of Internship
